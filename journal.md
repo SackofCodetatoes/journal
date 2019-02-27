@@ -1,4 +1,16 @@
 ================================
+2/27/19
+================================
+When CSS is too abundant, Reset the css on web tools and think big layout and go granular. 
+Go through elements on html to be more efficient.
+
+Continue css discussion next week tuesday after panel.
+CTOS or CEOs, hiring managers, or recruiters.
+
+730px is a magic sweetspot
+
+
+================================
 2/26/19
 ================================
 Continued work on project view page. Made some better adjustments after playing around with the css. Really wish I took the care to organize my css and remove redundancies. However, the project was an early work and bounded to have some learning mistakes. Additionally ran into heroku push errors after reconfiguring machine to properly run rails. Unsure where bug stems from.
