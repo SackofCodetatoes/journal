@@ -1,7 +1,7 @@
 ================================
 2/26/19
 ================================
-Continued work on project view page. Made some better adjustments after playing around with the css. Really wish I took the care to organize my css and remove redundancies. However, the project was an early work and bounded to have some learning mistakes. 
+Continued work on project view page. Made some better adjustments after playing around with the css. Really wish I took the care to organize my css and remove redundancies. However, the project was an early work and bounded to have some learning mistakes. Additionally ran into heroku push errors after reconfiguring machine to properly run rails. Unsure where bug stems from.
 
 ================================
 2/25/19
