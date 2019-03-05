@@ -1,4 +1,10 @@
 ================================
+3/04/19
+================================
+Some things I'd like to keep in mind is keeping up the journal even when not much is going on and to keep ensure I can maintain my schedule of work and personal life together. Would prefer to do code related projects within the mornings and move onto personal engagements at night. 
+
+
+================================
 2/27/19
 ================================
 When CSS is too abundant, Reset the css on web tools and think big layout and go granular. 
