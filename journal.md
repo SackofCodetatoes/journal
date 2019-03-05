@@ -28,14 +28,40 @@ Coverletters
 - personal part of the cover letter is very important. two sentences is bigger than a paragraph, depending on content
 
 
+Postitives and pitfalls are sort of red flags 
 What do you look for in tech interview
 - can you learn, take ownership or large projects, 
+- people should layout your approach and code isnt self explained
+- Make sure to ask questions and clarify the question and make sure you sound excited
+- try to sound excited about the interview
+- dont bypass the recruiters
+- speak about ME, I DID this and more on what you did
+- be able to speak about ownership, facinated by challenges, showw enjoy facing obstacles and you have 30 mins to sell yourself. Be geunine, tell your story. KNOW WHO YOU ARE SPEAKING TO on call
+- Be authentic with human element. Companies are investing on brand names and culture. Identify and brand yourself to fit with your group and who you are speaking to
+project abotu ROI perspective so u can frame your language and project. Hard to explain what the value of your project will be to the organizaiton to someone not in your world
+- speak about your we's and I's 
+- Consulting, contract might be easier as less risk as they can cut you off easier. "Too early in the process to tell about culture and fit" but for contract work, better to have a number as it is more logistical. No culture and fit for contract work
+- keep the confidence as you go through your call, ask about enxt steps but do stay positive, be prepared and do your research on your company. Go to glassdoor to be able to talk about it
+
 
 What are the pitfalls to tech interview
-- if someone seems stagnant, unwilling to learn, doing something the same
+- if someone seems stagnant, unwilling to learn, doing something the same. dont seize up, try to overcome. Don't force a method, but rather be flexible. Seizing up is more of a frustration and should be avoided. Be able to move past to a solution.
+- layout the structure of the solution before jumping to the solution. Be clear while you whiteboard a solution. 
+- try to avoid WE on projects or recruiter will pry for more info
+
+
 
 
 Note- Trees is more of a learning problem while others are more traditional
+- have key blurbs that recruiter can memorize as some are theere just to take notes
+- recrutiers look everywhere. Recruiters do know some coding so know your brand, 
+- Do your research about the project, better if I know ABC but can you dive deeper in A. Have enough ammunition to go into your content. Have your questions ready and be curious 
+- know stage of company, funding, private, public, original founder, remaining foudners, understand the nuances and foudners story details the product and ask about the business model. Know as much as you can about the project. Have questions of how the product functions or such. 
+
+Prove you can do what oyu can as recruiter needs to know the team built will be viable
+be able to show your passion. Show what you are passonate with 
+
+Biggest problem with False briefs? SOme are fans of open source or willing to get used to code
 
 
 Project overviews:
