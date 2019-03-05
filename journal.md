@@ -1,4 +1,25 @@
 ================================
+3/05/19
+================================
+Project overviews:
+Constructables
+  - Built full stack application with Ruby on Rails framework, PostgreSQL, React, JavaScript, and Redux cycle
+
+
+Noticed to fix items: Magnify glass on constructables
+
+
+Routine to follow:
+Morning:
+  - 3 leet code problems
+  - Work on some project goal
+    - if no goals, create some and work on it incrementally for a project
+    - i.e. a feature, text box, object, etc. 
+  - Study a project concept, either personal coding project or review the concepts of my project 
+
+
+
+================================
 3/04/19
 ================================
 Some things I'd like to keep in mind is keeping up the journal even when not much is going on and to keep ensure I can maintain my schedule of work and personal life together. Would prefer to do code related projects within the mornings and move onto personal engagements at night. 
