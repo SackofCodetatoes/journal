@@ -1,12 +1,59 @@
 ================================
 3/05/19
 ================================
+Recruiter Panel Notes
+- 10 secs to view, what to look for: tech stack & languages, related tech stack, certificates, background, typically online, 
+- likes to look for C# and C++ due to knowing the fundamentals
+- some also look for social good, volunteer work, (dependent)
+- good description of your experience on the project and what it is
+- segment - more customer facing and need more technical person looking for in depth knowledge
+- Having passion, blurb. From trees, It might be more passion
+
+pitfall
+- tech stack sometimes too generic
+- Presentable to hiring manager vs online presentation
+- segment - lacking customer facing experience, like having long gaps and want to have more transferable skills. 
+- Cant tell what you are, are you frontend, backend, product, etc?
+    - if you are a specific engiener (identity), display it with summary, or objective or what you want to do. EX. say frontend, backend, full stack, etc
+    - sometimes needs to determine years of experience
+- do you really want to work here and stick around?
+
+
+Coverletters
+- not really looked at, typically just resume due to time, but there are some hr thta looks at coverletter
+- some are required, coverletter should say what you bring to the company, market, market share, and evidence why you're passionate about the indiustry. If you can create a personal connection to the industry, that would be great and show
+- paying atttention to the space is pretty important, like applying to bing despite the lower market share
+- eye catching first liner, if not, prob wont look at. Segment is more dependent and want an answer to their unique questions
+- Thank you letter 'is very important and here is what i heard', 'you will not regret hiring me'. Want to express that it is not a gamble
+- personal part of the cover letter is very important. two sentences is bigger than a paragraph, depending on content
+
+
+What do you look for in tech interview
+- can you learn, take ownership or large projects, 
+
+What are the pitfalls to tech interview
+- if someone seems stagnant, unwilling to learn, doing something the same
+
+
+Note- Trees is more of a learning problem while others are more traditional
+
+
 Project overviews:
 Constructables
-  - Built full stack application with Ruby on Rails framework, PostgreSQL, React, JavaScript, and Redux cycle
+  - Built full stack application with Ruby on Rails framework, PostgreSQL, React, JavaScript, and Redux 
+  
+
+  Most difficult part: 
+  - Understanding how the technologies fit together to create single page application 
+
+Grouple:
+  - used axios
 
 
-Noticed to fix items: Magnify glass on constructables
+Noticed to fix items: 
+  - Magnify glass on constructables
+  - Related project datas
+
 
 
 Routine to follow:
