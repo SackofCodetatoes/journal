@@ -71,6 +71,13 @@ SEGMENT Panel
  Segment requires an api to gather data and their customers has to fill out forms. Segment takes the info and maintain
 
 mroe for customer success engineer - can you relay your specific info to me
+lots of work with success engineers move into engineering and looks at people passionate about engineering
+Talks about here are the steps to taking them to where they want to go
+
+for Segment, check out talent match, but it is viewing success engineering
+Huge demand 
+Happy number on leet code was a pcoding problem
+
 
 Jeremy from Treez
 Michelle from AutoDesk, connect and provide jobs of interest
@@ -79,7 +86,9 @@ Michelle from AutoDesk, connect and provide jobs of interest
 TL;DR
 
 
-========================================================================================
+    ----------------------- 
+
+Go to meetups to investigagte interests to apply for
 
 
 Project overviews:
