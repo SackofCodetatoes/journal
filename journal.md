@@ -50,7 +50,7 @@ What are the pitfalls to tech interview
 - try to avoid WE on projects or recruiter will pry for more info
 
 
-
+onsite has 4 - 5 people 
 
 Note- Trees is more of a learning problem while others are more traditional
 - have key blurbs that recruiter can memorize as some are theere just to take notes
@@ -62,6 +62,24 @@ Prove you can do what oyu can as recruiter needs to know the team built will be 
 be able to show your passion. Show what you are passonate with 
 
 Biggest problem with False briefs? SOme are fans of open source or willing to get used to code
+
+SEGMENT Panel
+ - Customer Facing and Engineering is a big topic to looka t 
+ - Success engineers - technical side of the customer facing, does not lie in engineering but rather revenue and buisness
+ - have additional groups continuously with 8 peeps every 2 weeks now at 300 peeps
+
+ Segment requires an api to gather data and their customers has to fill out forms. Segment takes the info and maintain
+
+mroe for customer success engineer - can you relay your specific info to me
+
+Jeremy from Treez
+Michelle from AutoDesk, connect and provide jobs of interest
+
+
+TL;DR
+
+
+========================================================================================
 
 
 Project overviews:
