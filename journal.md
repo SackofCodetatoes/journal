@@ -1,4 +1,10 @@
 ================================
+3/06/19
+================================
+Worked out interviewing problems involving more math and logic. Determined I need more work with the math related problems and develop a way to build a flow towards the answer. Working through 343 Integer break was fun as I created an approach based on a mathematical note of squared numbers. Additional plans I have soon is to partition my ubuntu system to so that I can install windows and work on some more passion projects. Hope thigns go well and I need to remember to make backups prior to installation. 
+
+
+================================
 3/05/19
 ================================
 Recruiter Panel Notes
