@@ -1,4 +1,21 @@
 ================================
+3/08/19
+================================
+My high level approach to a XOR Linked List, a more efficient doubly linked list that utilizes as both field instead of a previous and next by XOR-ing the previous and next. To build our XOR linked list, we build a class that takes can add a node and has reference to the root node and tail node. We have a root node and tail node pointer in order to append elements in our list in constant time and allow us to iterate in linear time. When adding a node into XOR LL, we create a node and set the both field to be the tail node XOR with some indicator, ex NULL as both refers to previous and next. Additoinally, we update the tail node's both field to be it's previous XOR with current new node. 
+
+In order to iterate over the nodes, we start with a root and XOR the both field with NULL or an element we use to indicate the head/tail which returns us bitwise the next node. Dealing with pointers would give us that pointer. We then store the previous node's pointer and XOR with the next node's both field to repeat the process until we've managed the number of iterations we want. 
+
+
+
+
+================================
+3/07/19
+================================
+Noticed that my Math solution doesnt quite work and I should in fact build up a solution than rely on some underlying premise, despite how it might seem in my head.
+
+Prior to my math-centric solution, My approach 
+
+================================
 3/06/19
 ================================
 Worked out interviewing problems involving more math and logic. Determined I need more work with the math related problems and develop a way to build a flow towards the answer. Working through 343 Integer break was fun as I created an approach based on a mathematical note of squared numbers. Additional plans I have soon is to partition my ubuntu system to so that I can install windows and work on some more passion projects. Hope thigns go well and I need to remember to make backups prior to installation. 
