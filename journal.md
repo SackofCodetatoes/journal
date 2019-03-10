@@ -1,4 +1,11 @@
 ================================
+3/09/19
+================================
+Going to install windows ontop of ubuntu to dualboot. Wish me luck
+
+
+
+================================
 3/08/19
 ================================
 My high level approach to a XOR Linked List, a more efficient doubly linked list that utilizes as both field instead of a previous and next by XOR-ing the previous and next. To build our XOR linked list, we build a class that takes can add a node and has reference to the root node and tail node. We have a root node and tail node pointer in order to append elements in our list in constant time and allow us to iterate in linear time. When adding a node into XOR LL, we create a node and set the both field to be the tail node XOR with some indicator, ex NULL as both refers to previous and next. Additoinally, we update the tail node's both field to be it's previous XOR with current new node. 
