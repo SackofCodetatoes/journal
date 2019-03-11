@@ -1,4 +1,18 @@
 ================================
+3/11/19
+================================
+Worked through more coding problems and noticing my problem with jumping ahead of myself. Need to remember to break down my steps on white boarding
+1. Clarify the question + determine sample input
+2. Create an approach, possibly with pseudo code
+3. Talk about tradeoffs
+4. Code 
+5. Debug
+
+Something else I'd like to focus on is more JavaScript trivia, given that I am appling also applying for frontend / web / JavaScript positions. Mason recommended the typical google search to find questions and keep a log of my findings which I will include. Additonally should check the job boards that mason recommended.
+
+
+
+================================
 3/09/19
 ================================
 Going to install windows ontop of ubuntu to dualboot. Wish me luck
