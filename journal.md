@@ -10,6 +10,31 @@ Worked through more coding problems and noticing my problem with jumping ahead o
 
 Something else I'd like to focus on is more JavaScript trivia, given that I am appling also applying for frontend / web / JavaScript positions. Mason recommended the typical google search to find questions and keep a log of my findings which I will include. Additonally should check the job boards that mason recommended.
 
+Mock with Mason
+- Be clear on my approach and envelop my work.
+ 
+
+Meeting with Adrian:
+- Get referrals from people
+- More clearbits
+- Referral first, then apply. Clearbit to get the referral and then apply through the referral system
+- Most of job search is networking and coding
+- Talk to more people, more events
+
+
+- 25 clearbits
+- event by this Friday, required selfie
+- 3 of which to be about combining passions, explicitly on 
+- held accountable
+- Reflect on WePay challenge
+
+Given string of paranthesis and *, where * represents a wildcard, can be open or closed. determine if given string can be valid parenthesis. 
+
+
+
+Clearbitting and networking Priority
+finance@appacademy.io
+
 
 
 ================================
