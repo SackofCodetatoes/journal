@@ -1,4 +1,9 @@
 ================================
+3/13/19
+================================
+Have a new project idea that requires some hashing out. Main idea is art prompt generator. For my current purpose, it would generate an expression and character or perhaps even a specific twitch emote option to practice drawing a specific emote. Plans to have user accounts to allow users to creaate their own lists to randomly select from and possiblily to upload images to show their progress or daily checkin.
+
+================================
 3/11/19
 ================================
 Worked through more coding problems and noticing my problem with jumping ahead of myself. Need to remember to break down my steps on white boarding
