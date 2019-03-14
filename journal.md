@@ -1,3 +1,85 @@
+Paul, Data scientist
+did a lot of buisness analssis and was also a bootcamp grad thats into data science 
+Data scientist is person who is better at stats than any software engineer and better at oftware engineering than any statician. Need that stats background and be able to effectively communicate on
+Thinkful Mentor Dodge Mcintosh
+
+Data science project at a real company. Linkedin back in 2006 and how a scientist came in to work on pa project and the outcome of it
+Johnathan was the datasceintist that joined LinkedIn and wanted to grow their numbers via statisticis. 
+want to frame the question, collect raw data
+
+after processing our data, we want to explore it, find the insights, distribution of variables and the findings behind the data. 
+
+Be able to effectively tailor the information to the audience to be meaningful
+
+1. Frame the question, What questions we want to answer?
+What connection type and number lead to higher user engagement. 
+which connections do people want to make but are currently limited from making
+how might we predict these types of connections with limited data 
+
+leads us to need to know connection data, demographic data, how are these people possibly connected? Collegues, vicinity? etc
+
+
+how is data dirty and how can we clean it?
+  user input
+  redundancies
+  feature changes
+  data model changes
+    Early linkedin was just entering data with no way to verify that data or just has typos
+    possible connection question is people wiht similar responsiblities but differrent titles
+    possible fix is have categoical dropdown information to clean up user input
+
+what are the meaningful questions behind the data
+  triangle closing
+    im connected to john, johns conencted to arty, so maybe i should be connected to arty. Then we could look at other statistical data such as vicinity, location, etc to make a suggestion of being connected
+
+How do we communicate this to be mroe meaningful?
+  hey do x to gain y
+
+out of that, we gained possible connections with othe rindividuals
+
+
+Python and specific library to clean that data
+
+lot of data is stored jupiter notebook and 
+automate the boring stuff with python book which python will help us clean our code 
+
+Scala also big in big data specialization
+
+Will be building a model that will be a decission treem
+  - predict the most likely outcome based on nput
+  like a computer building a version of 20 questions
+  regression problem is determingin a contiguious value, defined set
+  the decisioin tree is will we play golf givn these conditions
+  is a binary classification problem and is a biased learnign problem because we already know if we will play or not play. If we didnt have the outcome, it would not be biased
+
+  Supervised learning is having all our historical data and unsupervised is not? Since we have all our information in our golf example, it is supervised
+
+  unsupervised ex is customer segmentation information
+    have purchase data, but no grouoping of the customers
+    up to us to make useful differentiation
+
+Collabortory - googles version of jupiter notebooks
+juptr java python r notebook which works for us with python
+allows us to run code on the notebook
+
+with python, from sklearn, import tree
+import pandas as pd
+python uses DataFrame objects with our pandas
+
+Dummy columns, sidekick elarn, need to convert categoriical info to converted to numerical representation. the get_dummies function creates a new DataFrame object that returns us dummied version
+can use graphviz which is a visualization model which we copy the code to generate a decision tree model visual
+interptable model = whitebox, blackbox = less interpertability
+clf-train.predict() where clf-train was our model
+double squre bracket passes in matrix
+run thru our code and try it out with different temperatures or osmething 
+
+decision trees are prety easy to get up n running and not worried about scaling after numerically encoded, but has some limitation
+  limited data points that has been trained on
+
+data analystic role isnt specifically all about this, data science is more on prediction
+Dataquest and dataCamp is good intro/sources to data science
+thinkful has free trials to learn more on python and statistics
+
 ================================
 3/13/19
 ================================
