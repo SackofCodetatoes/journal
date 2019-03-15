@@ -1,4 +1,18 @@
-Paul, Data scientist
+==========================
+3/15/19
+==========================
+Google Interview Question
+Given singly linked list and integer k, remove the kth element. Linked List might be very long and thus we can only iterate over the list in a single pass
+Approach: Approach the problem with a few pointers. Offset pointer, index pointer, and previous pointer. index pointer will point to current index item as we iterate, offset will point to k elements behind index and previous will point to the elemennt previous to the offset. start by iterating index pointer by k elements. offset will point to root, previous will point to null or head. now as we iterate over elements, we updte our previous to offset, offset to offset.next and index to index.next until index.next is null. at end of list, we set our previous.next to point to offset.next as offset is kth element from end of list
+
+
+
+
+==========================
+3/14/19
+==========================
+
+Dodge, Data scientist
 did a lot of buisness analssis and was also a bootcamp grad thats into data science 
 Data scientist is person who is better at stats than any software engineer and better at oftware engineering than any statician. Need that stats background and be able to effectively communicate on
 Thinkful Mentor Dodge Mcintosh
@@ -79,6 +93,11 @@ decision trees are prety easy to get up n running and not worried about scaling 
 data analystic role isnt specifically all about this, data science is more on prediction
 Dataquest and dataCamp is good intro/sources to data science
 thinkful has free trials to learn more on python and statistics
+
+
+Making products that dont exist by StreetContext PM, Prachy Mohan
+
+
 
 ================================
 3/13/19
