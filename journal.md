@@ -1,3 +1,5 @@
+been having a stomach ache. not doing well
+
 ==========================
 3/15/19
 ==========================
