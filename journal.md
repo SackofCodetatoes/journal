@@ -1,3 +1,169 @@
+self note is not to apply for positions that don't neccesarily include skills i am very fluent at currently. Given that i have experience, it's not very wise to do so.
+
+
+
+following very niche positions
+phaiden internatonal stem field, life fields, financial services, civil engineers
+nuced motors
+
+
+allowed me to quickly implement my datamodels for users and user associated projects 
+
+
+Love bringing things to life
+graduated with bacheors in computer scienc eand engineering
+worked independinetly in art and video game development, soon after fell in love with web development. 
+enrolled in app academy to level up my skills 
+
+
+My name is Jason and I love bringing ideas to life. I graduated from uc davis with a bachelors of science in computer science and engineering. After graduationg I worked independently in art and video game development to explore a creative path. Soon after I fell in love with web development as it blended my creative and engineering passions and decided to level up my skills by enrolling in app academy. I gained hands on experience in modern web frameworks and concepts such as React, ruby on rails, REST APIs, and relational databases like postgres. 
+
+I think id be a great fit because I myself am a growth oriented self starer with experience working across the stack
+
+I saw that wanderjaunt takes care to create amazing experiences, and as someone that loves to go through the iterative process, I'd love to develop that process. 
+
+
+
+existing homeowners owners outa the picture and wanderjaunt takes care of it
+design to activation team, redesign the place, works with other 3rd party travel agencies, take care of cehckins checkouts and cust service
+win win can see from on airbnb 
+4 % to 8 %
+
+180 - 450
+
+3rd market 
+
+20 white collar hrly labr to move things
+50 - 60 white collar
+ second pillar to wander juant
+ raise money under properties 
+ buying homes for long term
+
+
+ flexibility and ambiquity and engineers are more multifunctional
+ product and consumer oriented
+
+
+ what youd be doing
+ straight forward, travel company book thru platform
+ bookable thru airbnb
+  they take a cut from that venue and want to increase ours
+  more ui, page decrease functionality, web page optimization
+  more operational side of things scheduling the night before
+  more factors at demand basis
+  warehouse management,
+  artwork, phoneix austin, direct manufacturer partnerships
+  data challenges at play, buy property to be efficient
+  want tooling that sort of gud for the optmization and tooling to input data and predict
+
+
+
+
+
+im interested in wanderjaunt because i feel id be a really great fit because I myself am self starter growth-oriented with experince working across the stack. 
+
+dont say fit for the position
+
+why i want to work at wanderjaunt
+I love the iterative and transformation process behind wanderjaunt does, from acquiring potential venues, reimaginging the it's potential and creating a new experience. 
+
+come up wiht the best u have
+
+off
+4 people 
+have autonomy and running point
+
+
+
+ and during that time I hed the pleasure of learnign various algorithms, fundamentals to computer science, and some hands on experience to co
+
+
+
+3/20
+IBM meetup talk
+applcation modernization on enterprise cloud stack
+Will have a quiz to earn a badge later as part of the coder platform
+What is app modernization and we keep evolving. bit better than the custom order
+have to agree on a format within the appliaction and lead to service oriented architecture. data could descripbbe itself when transmitting data. there would be interfaces that was set in 
+late 90s had custom interfaces . 10's had more standardized protocols 
+2015 microservices using language agnostic apis and protocols
+
+devs like to dive in and learn to swim
+app modernization requires planning
+biggest factor to modernize the app looks at business value and the cost and benefits from migrating
+typically lots of buisness rules
+
+good value usually found in apps that have 
+  - multiple upgrades per year, 
+  lots of buisness rules requring complex regression, testing and extended service ouotages to implement. large stable growng user base
+
+also needs to account for how easy it is to migrate, technically
+three ways to migrat is replatform, repackage, refactor
+
+repackage involves repackaing of the app, breaking out the components, 
+
+refactor rewrites the app on a modern platform
+
+IBM cloud transformation advisor
+can be pointed to jboss or 
+migrate and check the errors that occur on the ibm cloud transformation advisor
+checks to see how feasible it would be to move the application
+
+underlying technologies required for the new environment
+
+refactor what is necessary but dont necessarily refactor
+what doesnt make sense to rewrite it from scratch
+replatform takes legacy ap
+
+containers and dockers
+containers not a new idea, what is significant and docker containers is the overall ecosystem itself thats built upon its own library
+
+how do containers work? processes run for the life time of the container
+comparable to vm machine
+have to map certain things 
+running contained is fine but running multiple live is a lot mroe and less organized
+use kubernetes will help organize the containers
+containers developed by google since open source
+kubernetes 
+based on api system
+client requests somethign in the enviornent, make request to storage, maps to storage and are monitored byb collection of watchers
+which manage the enviornment
+zero downpoint deployment, 
+add pods to the application
+once built, deploy to second level 
+
+openshift container, ibm cloud private
+ review the ibm and red hat replatofmred application, zero downtime.
+ show 
+ will show s
+point is you always have a version of the app running
+ pe
+
+ key tenets of microservices architecture
+ 1. large monoliths are broken down into many small services
+ 2. services are optimized for a single function
+ 3. services are tightly encapsulated behind concrete programming interfaces
+ 3. communication via res api and or message brokers
+ 5. per-service continuous integration and continous deploayment
+ per-service ha and clustering
+
+ microservices fundamentals
+ encapsulation is key, 
+microservice as api enabler
+micorservices architecture, review the slides
+
+review the slides 
+important to remember staging and deployment
+take a chunk of functionality, bring it to cloud, implement as microservices and then deploy and will have small migrations
+
+
+Since then I;ve been trying to grow myself as a developer by picking up and refining new skills such as web development using react, javascript, ruby, and relational databases.
+
+
+3/19
+=========================
+for trapped water problem, we start with two pointers, left and right wall and increment the smaller of the two positions inwards. if the moving index finds an element greater than current wall, update it and iterate on the direction of the smaller of the two walls again
+this will run in linear time and add all less than walls.points of data as captured water. if greater than, we jst update the 
 been having a stomach ache. not doing well
 
 ==========================
