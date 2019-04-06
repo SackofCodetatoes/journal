@@ -1,3 +1,13 @@
+been a bit out of touch but been focused on various aspects thats dificult to create a defined habbit
+plans to react app to stay on top of react techs
+
+
+temp coach to be cory for the following month
+agenda of things to do might be to create a react app to review frontend technologies. Use react app to create my artist site. 
+
+
+
+
 self note is not to apply for positions that don't neccesarily include skills i am very fluent at currently. Given that i have experience, it's not very wise to do so.
 
 
