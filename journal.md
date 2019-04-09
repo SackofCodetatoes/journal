@@ -1,3 +1,5 @@
+did c++ coding challenge and realized it wasnt all too bad. While I know it and can use it well, im still not a master at it, but enough knowledge to work it.
+
 been a bit out of touch but been focused on various aspects thats dificult to create a defined habbit
 plans to react app to stay on top of react techs
 
