@@ -1,3 +1,20 @@
+==
+Ask others about how their conferrence calls were all about. Contact Cory to see what he has to say and gain insight. 
+==
+
+Artist Commission tracker
+Artists sign up, create wip commissions (allows for notes, and image uploads, basic messaging (possibly live)), unique code per commission.
+clients can track their work via unique code and tracking page to see current progress. 
+Artists can request feedback / clients provide feedback in form of notes or basic image editing. 
+Free users past completed commissions will be logged artist side but tracking will expire within given period
+tos outlining tracking services is not man in the middle, but simply a service
+
+2 hours of studying algoirthm problems
+- 1 hour to studying, algo expert.com, algo design manual, reading about solutions
+- 1 hour practicing. Set a timer for an hour on leetcode for time constraint. SPend the hour trying to solve the problem. after the hour look for the optmial solution. 
+if did not find optimal, mark as incomplete and come back to it next week
+
+
 did c++ coding challenge and realized it wasnt all too bad. While I know it and can use it well, im still not a master at it, but enough knowledge to work it.
 
 been a bit out of touch but been focused on various aspects thats dificult to create a defined habbit
