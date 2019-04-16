@@ -1,3 +1,35 @@
+// var preorder = function(root) {
+//     if(root === null) return [];
+//     let result = [root.val];
+//     for(let i = 0; i < root.children.length; i++){
+//         result = result.concat(preorder(root.children[i]))
+//     }
+//     return result;
+// };
+
+//itterative would use stack
+//assuming we can modify the given tree. append root. add to stack, change pointer to first child. repeat, append current, if childre, add to stack. if no children, append self to result, shift off child element from top element of stack. continue until stack is empty
+
+//itterative
+var preorder = function(root) {
+    if(root === null) return [];
+    let result = [root.val];
+    let stack = [root];
+    let current;    
+    while(stack.length){
+        current = stack[stack.length - 1];
+        if(current.children.length){
+            stack.push(current.children[0]);
+            result.push(current.children[0].val);
+            current.children.shift();
+        }
+        else{
+            stack.pop();
+        }
+    }
+    return result;
+};
+
 ==
 Ask others about how their conferrence calls were all about. Contact Cory to see what he has to say and gain insight. 
 ==
