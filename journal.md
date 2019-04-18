@@ -4,6 +4,10 @@ Areas to focus on are:
 - Absolutely try to avoid being unfamiliar with my tools. Processing the question is fine, but not my own tools.
 - Live and breath code.
 
+Base conversion technique to determine if a number is of a certain base. Think binary, a value is of a base n if the converted base number is 1 with trailing 0s. Ex. 4 is base 2 since binary is 10. 5 is not as it is 101. Similarly can be done with 9 and base 3 leading to 100. 
+This can be done in JavaScript with i = integer.  based =  i.toString(base). the following was my approach to resolve the remaining while other approach can also be done. based.slice(1) and check if all trailing values is 0, based.slice(1).every(a => a === 0) 
+
+
 //
 
 Walk me throuhg the project youve done and the challenges with it.
