@@ -1,3 +1,26 @@
+Where I am now isnt cutting it. I need to live and breath for code.
+Areas to focus on are: 
+- Dive deeper into JavaScript specific functions instead of using for loops to reduce confusion during interviews
+- Absolutely try to avoid being unfamiliar with my tools. Processing the question is fine, but not my own tools.
+- Live and breath code.
+
+//
+
+Walk me throuhg the project youve done and the challenges with it.
+Constructables 
+- Full stack website highly inspired by instructables with some single page features
+- Users can create an account, post and search step-by-step project guides. 
+- Used Rails to quickly setup a postgres backend and setup api endpoints for creating accounts, projects, and project steps. 
+- Implemented a state store using redux cycle and react components to represent different states of the website
+
+Grapplehook
+- developed 2d projectile system 
+////
+
+
+something to note is look up news about the company
+
+
 // var preorder = function(root) {
 //     if(root === null) return [];
 //     let result = [root.val];
