@@ -1,3 +1,42 @@
+What is infrastructure engineering
+
+contact cory if i run into issues on my projects
+go thru the code of my projects
+- explain design decisions
+- reason to split these to two tables vs one, reasoning to nest routes
+- be comfortable explaining all of my project code
+- POLISH projects as well
+
+Algorithms, 
+- cracking the code
+- check out other resources as well
+
+Study up trivia
+- react questions
+- system design questions
+- pick a random prompt and architecht an app based on that criteria
+ex: project management app
+- todos
+- msg board
+- events
+- layout app from db, schema, routes, react components, redux state, wireframe it
+
+
+non profit and others 
+
+React app commission tracker => 
+MVP features
+- artists can create accounts. 
+- artists can start new commission -> generates unique tracking code. 
+- -requires attention for scalability. completed projectswill remain on artist's history but open commission will last 1 week before expiration
+- -intention is to allow previously unique code to be reused
+- aritsts can upload images and leave comment
+- clients can access a trackign page via their unique tracking code.
+- - requires attention ii how the code is structured and want to avoid other users from bruteforcing to see other ommissions by a specific artist. fixable by purely random code for all users, no hashing or xyz. 
+
+
+
+
 Where I am now isnt cutting it. I need to live and breath for code.
 Areas to focus on are: 
 - Dive deeper into JavaScript specific functions instead of using for loops to reduce confusion during interviews
