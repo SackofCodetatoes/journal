@@ -1,3 +1,26 @@
+tough questions encountered were check valid camelCase given set of words and variable name
+craete substrings of at most k unique characters from substring, with minimal number of substrings
+count number of substring pairs that differ by the kth index 
+aaaccdeeggeefjjjoi => aaaccd, eeggeef, jjjoi (returns 3)
+abacaba => 8 (stupidly as it counts repeated comparisons)
+
+
+
+add animation to constructables if not lean up how things load. exercise in project development
+on logout, refine the system and pop to main page.
+
+mock notes
+better wrap up on pitch with . : since then I've been actively job searching while practicing my programming skills in algorithms and new project ideas
+
+review javascript, brush up on whatever trivia i can
+dfs find max
+with graphs, create two approaches before starting
+take a breath and stay focused
+if thought comes up, take a note and come back to it. taka breath ebfore jumping into it.
+
+
+If possible, avoid using javascript functions unless they fit the purpose. Important to develop your interview potential as presentational. might have technical prowesss, but need to make it a presentational aspect. Pseudocode more and present. take the time to formulate, and be presentable and clean
+
 What is infrastructure engineering
 
 contact cory if i run into issues on my projects

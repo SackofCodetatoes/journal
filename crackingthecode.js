@@ -113,3 +113,68 @@ function oneAway(string1, string2) {
 
   return true;
 }
+
+// 1.6 string compression
+// given string aabcccccaaa, compress the string. if compressed is not shorter than original, return orgiinal
+// idea is to use two pointer method, cur & next. and count
+//  if cur != next, append compressed with cur + count. 
+//  at end, append cur and cur count
+//  return compressed or string based on length
+// 
+
+function stringCompress(string) {
+  let compressed = "";
+  let count = 1;
+  for (let i = 0; i < string.length; i++) {
+    if (string[i] !== string[i + 1]) {
+      compressed = compressed + string[i] + count;
+      count = 1;
+    }
+    else {
+      count += 1;
+    }
+  }
+  return (compressed.length < string.length) ? compressed : string;
+}
+
+// 1.9 assume method isSubString which checks if one word is a substring. given two strings s1 and s2. write code to check if s2 is rotate of s1 using only one call to isSubstring
+//  find index of the first char from string2 in string1. connect remaining beginning half to end of string and check if substring to s2. 
+//   duplicate string 1 with itself and check if s2 is substring with the above
+// 
+// 
+// 
+
+
+// 2.2 Return kth to last: implement an algorithm to find the kth to last eleent of a singly linked List
+// two pointer approach, one moves k elements forward, and one at head. incremebt both intil k is at tail, return head
+// 
+function kthLast(head, k){
+  let current = head;
+  let kth = head;
+  for(let i = 0; i < k; i++){
+    kth = kth.next;
+  }
+  while(kth != null){
+    kth = kth.next;
+    current = current.next;
+  }
+
+  return current;
+}
+// 2.3 delete middle node given said node
+// continue 
+// set cur to next value
+// if next.next != null, set next to that next
+// 
+
+// 2.4: Partition: Write code to parition a linked list around valu x, 
+// 
+
+// 2.5 Sum lists: two nums represented by ll in reverse order. sum them
+// -> followup: what if numbers are stored in forward order
+//  approach is to have a carry, sum values and if > 10, carry = 1 and mod the value, return as ll
+function sumLL(num1, num2){
+  let head = new Node(0);
+  
+  while(num1 != null && num2 != null)
+}
