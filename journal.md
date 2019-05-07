@@ -1,3 +1,5 @@
+review matrix manipulations, set up schedule and learning, 
+
 tough questions encountered were check valid camelCase given set of words and variable name
 craete substrings of at most k unique characters from substring, with minimal number of substrings
 count number of substring pairs that differ by the kth index 
