@@ -1,4 +1,23 @@
+
+
+Follow up with with brain health, add soemthign witty or funny from the interview and just checkin. 
+might be a framework like in spring to write out a controller
+
+since c++ or Java -> study object oriented, know java's little nuances and learn a bit about a framework with java. 
+- followup on brainhealth
+- set a deadline to do the skillz test
+- keep the applications up and as many clearbits
+setting up deadlines will help keep motivation up.
+
+Current goals for java review are to be able to work through medium difficult questions in java. Includeds array and string manipulation. enumeration funcitions similar to ruby. and object oriented design. If time avails, dive deeper into how java is used for backend. File manipulation also would be nice
+
 review matrix manipulations, set up schedule and learning, 
+
+set some deadlines, 
+
+Current plan to review Java, work through some exercises using java for remainder of week. on the side planning to review full stack and fix new project creation error and implement current swing mechanic to refactored code. Goal is to have clean, easy to read code that is lightweight functional. potentially would like to build out the interface as well to be more aesthetically pleasing.
+
+
 
 tough questions encountered were check valid camelCase given set of words and variable name
 craete substrings of at most k unique characters from substring, with minimal number of substrings
