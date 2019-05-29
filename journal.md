@@ -1,4 +1,7 @@
+https://github.com/gelstudios/gitfiti to retracively fix github
+call in 
 
+create a plaintext resume
 
 Follow up with with brain health, add soemthign witty or funny from the interview and just checkin. 
 might be a framework like in spring to write out a controller
