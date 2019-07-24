@@ -1,3 +1,104 @@
+negotiations
+vacaions, benefits, role responsibilities, upward mobility membership, equity, perks (gym membership
+) 
+how to leverage current offer with jobs i am applying for
+
+
+
+how does your project work? Where does it all start
+Created my application using ruby on rails with postgres system. 
+started with the backend by initializing my database by structuring model objects with appropriate fields. Things that can be created are:
+-users
+-projects
+-steps
+
+Additional api's include 
+-session creation and deletion
+-search index and or projects
+
+how does the backend interact?
+works by utilizing the api routes 
+make a request to a given route, ex: 
+show all projects or single project would be 
+/api/projects
+/api/projects/id
+
+
+the way frontend connects to backend is event listeners. when an action is prompted from a button, we run an ajax request based in the utils file. the ajax request defines the method, route and any additional info that might be neded, such as creating a project with project data. 
+button -> project actions -> project utils -> updates database -> updates state store -> updates button
+
+
+
+
+
+
+work on learning event loop
+
+
+My name is Jason and I love bringing ideas to life. I graduated from uc davis with a bachelors of science in computer science and engineering. After graduationg I worked independently in art and video game development to explore a creative path. Soon after I fell in love with web development as it blended my creative and engineering passions and decided to level up my skills by enrolling in app academy. I gained hands on experience in modern web frameworks and concepts such as React, ruby on rails, REST APIs, and relational databases like postgres. 
+
+And from all those experiences of working with different techs and learnign practices, I feel like im ready to take on any tasks that may come my way
+
+I think id be a great fit because I myself am a growth 
+oriented self starer with experience working across the stack
+
+
+
+notes
+
+grapplehook
+fix scrolling
+viewport is off center, adjust the background
+soundeffects html 5 audio tags and music
+dont forget to add mute button
+start muted and allow to be turned on
+
+full stack - > 
+more seed data
+add more common building data
+more realistic data
+more constructions
+site looks static, no liking or interactability, or comment, save for later
+
+make the site more alive
+textural hieracy can change
+droppign paragraph font by a few points and change how things look
+textural hierachies, read abotu them
+
+grouple
+- logout padding 
+- make more styling changes
+- put text in white littl ebox or add some cards
+- textural hierachies would come in handy
+- 
+
+
+
+scalability is if we have an app and currently 100 peeps, how can we scale to 100000 and process works
+
+scaling the database to larger audience, multithreading, with load balancers
+
+web architecture tied to scaling
+
+http://blog.self-loop.com/architecture_lecture/
+can relate to dev ops and your enviornment, setting up continuous integration and continuous deploayment
+automated test that run against our our implementations
+
+
+hit up a hackathon, more fun than regular events
+also good networking opportunities and realworld experience. Eventbrite, meetup
+mebe get one or two to go with 
+might be good on algorithms
+
+highly recommend doing javascript flashcards
+once its done, its in your brain, trivia knowledge would be can be difficult to learn but flashcards would eb a great
+anki available on mobile as well
+javascript to web architecture
+eventloop or what makes things restful
+frotnent, backend full stack developer
+web developer, app developer, web app developer, web engineer, web app engineer
+include entry level, junior, or specifics engieers, javascript, rails, react etc.
+
 https://github.com/gelstudios/gitfiti to retracively fix github
 call in 
 
