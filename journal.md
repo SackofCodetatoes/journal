@@ -1,5 +1,6 @@
 
-//should try making                                                                                                                           
+//should try making 
+Added more flascards. must review                                                                                                                          
 
 negotiations
 vacaions, benefits, role responsibilities, upward mobility membership, equity, perks (gym membership
