@@ -1,3 +1,7 @@
+I became a software develpoer because i love bringing ideas to life. I graduated uc davis with a bachelors in cs and engineering and worked on personal projects such as independant video game development and art. Soon after I dove into web development and decided to level up my skills through a training program. There, I gained hands on experience with modern web technologies and frameworks such as javascript, ruby on rails, react and relational databases while refining my skills. From my background and experiences, I believe I can find a solution to any technical challenge that comes my way and I'm ready to get to work. 
+
+Additionally, From my experiences in XYZ, I believe Id be a great fit for the role.
+
 
 //should try making 
 Added more flascards. must review                                                                                                                          
